@@ -1,11 +1,5 @@
 Git hub Process
 
-GitHub 
-UserName :- DNSolanki
-Email :- dharmendrasolanki875@gmail.com
-Password :- rvddrgnaa7415
-
-
 Windows System 
 
 1. Installing Msysgit and Git Extension
@@ -48,9 +42,9 @@ track the ignore file :-
 
 
 Configuring the Global Commit Author :- 
-- git config --global user.name "DNSolanki"
+- git config --global user.name "*********"
 
-- git config --global user.email "dharmendrasolanki875@gmail.com"
+- git config --global user.email "***********"
 
 
 Committing changes Initial Commit (Locally commit) :-
@@ -66,13 +60,13 @@ master (branch name)
 - git push myorigin master
 
 after that login usename and password
-UserName :- DNSolanki
-Password :- rvddrgnaa7415
+UserName :- ************
+Password :- ************
 
 
 Generating SSH Key for GitHub :-
 - git bash me command likhna h 
-- ssh-keygen -t rsa -C "dharmendrasolanki875@gmail.com"
+- ssh-keygen -t rsa -C "gmail id likhna h"
 - cd .ssh
 - clip < id_rsa.pub
 
